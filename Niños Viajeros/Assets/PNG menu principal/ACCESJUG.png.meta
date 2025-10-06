@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 6b5169ebbc45d29438ada2198397ae02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5364441318688814222
+    second: ACCESJUG_0
+  - first:
+      213: -4692009715099727223
+    second: ACCESJUG_1
+  - first:
+      213: -4793699587660563705
+    second: ACCESJUG_2
+  - first:
+      213: 9208880894426983095
+    second: ACCESJUG_3
+  - first:
+      213: 4428966358964018866
+    second: ACCESJUG_4
+  - first:
+      213: 2408417672544573955
+    second: ACCESJUG_5
+  - first:
+      213: 3084613226210469632
+    second: ACCESJUG_6
+  - first:
+      213: 8353185941210027411
+    second: ACCESJUG_7
+  - first:
+      213: 1574781262077539070
+    second: ACCESJUG_8
+  - first:
+      213: -4479754953285768591
+    second: ACCESJUG_9
+  - first:
+      213: 3355008799747172487
+    second: ACCESJUG_10
+  - first:
+      213: 8245089402843603090
+    second: ACCESJUG_11
+  - first:
+      213: -980562117660680556
+    second: ACCESJUG_12
+  - first:
+      213: 8976970528894256521
+    second: ACCESJUG_13
+  - first:
+      213: -9143752602116365558
+    second: ACCESJUG_14
+  - first:
+      213: 2256433310384741171
+    second: ACCESJUG_15
+  - first:
+      213: 864831823140492599
+    second: ACCESJUG_16
+  - first:
+      213: 8102413895651677833
+    second: ACCESJUG_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ACCESJUG_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 149
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b002dea0dad85b0800000000000000
+      internalID: -5364441318688814222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a8cc00602a2eeb0800000000000000
+      internalID: -4692009715099727223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 83
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b3e858f9b597db0800000000000000
+      internalID: -4793699587660563705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 77
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa33bf1648ccf70800000000000000
+      internalID: 9208880894426983095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be94341079d67d30800000000000000
+      internalID: 4428966358964018866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 90
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30adac2ec1b6c6120800000000000000
+      internalID: 2408417672544573955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 90
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0072fb1e26fbeca20800000000000000
+      internalID: 3084613226210469632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3955c904b5a7ce370800000000000000
+      internalID: 8353185941210027411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 88
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2b21dd63fbad510800000000000000
+      internalID: 1574781262077539070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 91
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aea90da96b4d1c0800000000000000
+      internalID: -4479754953285768591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 88
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886d3f4ab26f8e20800000000000000
+      internalID: 3355008799747172487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 91
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290a4d5a0217c6270800000000000000
+      internalID: 8245089402843603090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 88
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e51a003f75462f0800000000000000
+      internalID: -980562117660680556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_13
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 91
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98584ed422b949c70800000000000000
+      internalID: 8976970528894256521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 88
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03eccc347dda1180800000000000000
+      internalID: -9143752602116365558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_15
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 90
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b57d40426705f10800000000000000
+      internalID: 2256433310384741171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_16
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 88
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7351eb806ff700c00800000000000000
+      internalID: 864831823140492599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACCESJUG_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986d189728e817070800000000000000
+      internalID: 8102413895651677833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ACCESJUG_0: -5364441318688814222
+      ACCESJUG_1: -4692009715099727223
+      ACCESJUG_10: 3355008799747172487
+      ACCESJUG_11: 8245089402843603090
+      ACCESJUG_12: -980562117660680556
+      ACCESJUG_13: 8976970528894256521
+      ACCESJUG_14: -9143752602116365558
+      ACCESJUG_15: 2256433310384741171
+      ACCESJUG_16: 864831823140492599
+      ACCESJUG_17: 8102413895651677833
+      ACCESJUG_2: -4793699587660563705
+      ACCESJUG_3: 9208880894426983095
+      ACCESJUG_4: 4428966358964018866
+      ACCESJUG_5: 2408417672544573955
+      ACCESJUG_6: 3084613226210469632
+      ACCESJUG_7: 8353185941210027411
+      ACCESJUG_8: 1574781262077539070
+      ACCESJUG_9: -4479754953285768591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

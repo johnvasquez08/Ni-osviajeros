@@ -10,8 +10,8 @@ public class PopupManager : MonoBehaviour
     void Start()
     {
         popupUI.SetActive(false); // Asegurarse de que el popup esté desactivado al inicio
-        playerMovement = FindObjectOfType<PlayerMovement>();
-        playerRigidbody = FindObjectOfType<Rigidbody2D>();
+        playerMovement = FindFirstObjectByType<PlayerMovement>();
+        playerRigidbody = FindFirstObjectByType<Rigidbody2D>();
     }
 
     public void ShowPopup()
@@ -53,7 +53,7 @@ public class PopupManager : MonoBehaviour
         if (triggerCollider != null)
         {
             triggerCollider.enabled = false;
-            Invoke(nameof(EnableCollider), 1f); // Rehabilitar el Collider después de 1 segundo
+            Invoke(nameof(EnableCollider), 2f); // Rehabilitar el Collider después de 2 segundos
         }
     }
 

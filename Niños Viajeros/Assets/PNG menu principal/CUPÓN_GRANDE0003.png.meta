@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b86eba10a80dfb64cb02bc0fbf581523
+guid: d3f56b38b70f47f429bb2f95b853711f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8695857007465429591
-    second: entrada avion kidzania_0
+      213: 6930981937640031826
+    second: "CUPO\u0301N_GRANDE0003_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: entrada avion kidzania_0
+      name: "CUPO\u0301N_GRANDE0003_0"
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 0
-        width: 936
-        height: 349
+        width: 2053
+        height: 1242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75a719b20e3eda870800000000000000
-      internalID: 8695857007465429591
+      spriteID: 256cea1b95bcf2060800000000000000
+      internalID: 6930981937640031826
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      entrada avion kidzania_0: 8695857007465429591
+      "CUPO\u0301N_GRANDE0003_0": 6930981937640031826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,7462 @@
+fileFormatVersion: 2
+guid: 11a373ae541e33e4b95dd5b63ff7841b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4592540878732641106
+    second: CUPONES_0
+  - first:
+      213: -7560660339325316710
+    second: CUPONES_1
+  - first:
+      213: -8694226920280456548
+    second: CUPONES_2
+  - first:
+      213: 6504011176303521163
+    second: CUPONES_3
+  - first:
+      213: -6063004307505517113
+    second: CUPONES_4
+  - first:
+      213: -7320986171370592585
+    second: CUPONES_5
+  - first:
+      213: -4666246193060126909
+    second: CUPONES_6
+  - first:
+      213: -3057347966936504071
+    second: CUPONES_7
+  - first:
+      213: 7398389680209475036
+    second: CUPONES_8
+  - first:
+      213: -2875035593898118966
+    second: CUPONES_9
+  - first:
+      213: 4720959013561440175
+    second: CUPONES_10
+  - first:
+      213: 8617449707077083060
+    second: CUPONES_11
+  - first:
+      213: -3881311348860968720
+    second: CUPONES_12
+  - first:
+      213: -27759821505558946
+    second: CUPONES_13
+  - first:
+      213: -5527595664524538978
+    second: CUPONES_14
+  - first:
+      213: 2366161510983724731
+    second: CUPONES_15
+  - first:
+      213: 2587561536842421637
+    second: CUPONES_16
+  - first:
+      213: 7953400553603084227
+    second: CUPONES_17
+  - first:
+      213: -3622618153624518383
+    second: CUPONES_18
+  - first:
+      213: 4789844332897757644
+    second: CUPONES_19
+  - first:
+      213: -1416809703712856987
+    second: CUPONES_20
+  - first:
+      213: -3671401764267026163
+    second: CUPONES_21
+  - first:
+      213: 2327607030600702872
+    second: CUPONES_22
+  - first:
+      213: 1922371079764364815
+    second: CUPONES_23
+  - first:
+      213: 2895158194629533805
+    second: CUPONES_24
+  - first:
+      213: -8343698146010837092
+    second: CUPONES_25
+  - first:
+      213: -525268170062584771
+    second: CUPONES_26
+  - first:
+      213: 6712402284903679414
+    second: CUPONES_27
+  - first:
+      213: -3487699281118396536
+    second: CUPONES_28
+  - first:
+      213: 5937835915090442644
+    second: CUPONES_29
+  - first:
+      213: -3641035815154266002
+    second: CUPONES_30
+  - first:
+      213: -9053382446779508443
+    second: CUPONES_31
+  - first:
+      213: 4398110004271180016
+    second: CUPONES_32
+  - first:
+      213: 1206883017656073300
+    second: CUPONES_33
+  - first:
+      213: -9160759288352219023
+    second: CUPONES_34
+  - first:
+      213: 8058724194712057691
+    second: CUPONES_35
+  - first:
+      213: -8370498476437697128
+    second: CUPONES_36
+  - first:
+      213: -2897570095855766487
+    second: CUPONES_37
+  - first:
+      213: 6689172287739003131
+    second: CUPONES_38
+  - first:
+      213: -1840595361722438694
+    second: CUPONES_39
+  - first:
+      213: -8174869919594413095
+    second: CUPONES_40
+  - first:
+      213: 9063768069615968618
+    second: CUPONES_41
+  - first:
+      213: 4565533856323787103
+    second: CUPONES_42
+  - first:
+      213: 2519782706416992991
+    second: CUPONES_43
+  - first:
+      213: 1187597413933963189
+    second: CUPONES_44
+  - first:
+      213: -639151805666333753
+    second: CUPONES_45
+  - first:
+      213: 3352752691003904201
+    second: CUPONES_46
+  - first:
+      213: 3993976600728276870
+    second: CUPONES_47
+  - first:
+      213: -7540687835554614205
+    second: CUPONES_48
+  - first:
+      213: 2738223416199988593
+    second: CUPONES_49
+  - first:
+      213: -1143474172288781057
+    second: CUPONES_50
+  - first:
+      213: -6615770012488773600
+    second: CUPONES_51
+  - first:
+      213: 9030465706132560981
+    second: CUPONES_52
+  - first:
+      213: 4040229345086710871
+    second: CUPONES_53
+  - first:
+      213: 4469789360953539701
+    second: CUPONES_54
+  - first:
+      213: -5847511192170991688
+    second: CUPONES_55
+  - first:
+      213: 693782598957948418
+    second: CUPONES_56
+  - first:
+      213: 7884849338927980667
+    second: CUPONES_57
+  - first:
+      213: 4137035384973080492
+    second: CUPONES_58
+  - first:
+      213: -5285012721142749284
+    second: CUPONES_59
+  - first:
+      213: -7173165584081662064
+    second: CUPONES_60
+  - first:
+      213: 5406867429062849117
+    second: CUPONES_61
+  - first:
+      213: 9034945195828313724
+    second: CUPONES_62
+  - first:
+      213: 2061422468039289569
+    second: CUPONES_63
+  - first:
+      213: 7006700988303018397
+    second: CUPONES_64
+  - first:
+      213: -809886179143948862
+    second: CUPONES_65
+  - first:
+      213: -1329969197572031851
+    second: CUPONES_66
+  - first:
+      213: -6975239402608612893
+    second: CUPONES_67
+  - first:
+      213: -3576239055811989982
+    second: CUPONES_68
+  - first:
+      213: -2636178384906322964
+    second: CUPONES_69
+  - first:
+      213: 8342715019993506156
+    second: CUPONES_70
+  - first:
+      213: 7550036773059093022
+    second: CUPONES_71
+  - first:
+      213: 3601737795344770555
+    second: CUPONES_72
+  - first:
+      213: 5337346965679901057
+    second: CUPONES_73
+  - first:
+      213: 2822730554901040738
+    second: CUPONES_74
+  - first:
+      213: -5385995771130337398
+    second: CUPONES_75
+  - first:
+      213: -8068576593918330200
+    second: CUPONES_76
+  - first:
+      213: -6892746385746191334
+    second: CUPONES_77
+  - first:
+      213: -5648505745262572535
+    second: CUPONES_78
+  - first:
+      213: 3002489707894017117
+    second: CUPONES_79
+  - first:
+      213: -6121827373169208274
+    second: CUPONES_80
+  - first:
+      213: -4390838401476365456
+    second: CUPONES_81
+  - first:
+      213: 6635659242851779022
+    second: CUPONES_82
+  - first:
+      213: -7406945460376339130
+    second: CUPONES_83
+  - first:
+      213: -7443238381569929965
+    second: CUPONES_84
+  - first:
+      213: -770821290946052904
+    second: CUPONES_85
+  - first:
+      213: 1440045501481164761
+    second: CUPONES_86
+  - first:
+      213: -6218754240460291393
+    second: CUPONES_87
+  - first:
+      213: 5584459853589145353
+    second: CUPONES_88
+  - first:
+      213: 4922428346963893022
+    second: CUPONES_89
+  - first:
+      213: -8232842515934596940
+    second: CUPONES_90
+  - first:
+      213: -632001095869463525
+    second: CUPONES_91
+  - first:
+      213: 5704557007764547273
+    second: CUPONES_92
+  - first:
+      213: -778050621617909140
+    second: CUPONES_93
+  - first:
+      213: -2483504499891240803
+    second: CUPONES_94
+  - first:
+      213: 1625215947674833942
+    second: CUPONES_95
+  - first:
+      213: 6608470274821029665
+    second: CUPONES_96
+  - first:
+      213: 8433958270831978151
+    second: CUPONES_97
+  - first:
+      213: 7677356246787414452
+    second: CUPONES_98
+  - first:
+      213: 8349809641737689893
+    second: CUPONES_99
+  - first:
+      213: 5080761111165411386
+    second: CUPONES_100
+  - first:
+      213: -1864209352622392608
+    second: CUPONES_101
+  - first:
+      213: 3404004585197878401
+    second: CUPONES_102
+  - first:
+      213: -4681562825293118984
+    second: CUPONES_103
+  - first:
+      213: 8327245575811226565
+    second: CUPONES_104
+  - first:
+      213: -5808795129866296116
+    second: CUPONES_105
+  - first:
+      213: 6757870969863642037
+    second: CUPONES_106
+  - first:
+      213: -300575152956543027
+    second: CUPONES_107
+  - first:
+      213: -939769514462386052
+    second: CUPONES_108
+  - first:
+      213: 2352837603539233573
+    second: CUPONES_109
+  - first:
+      213: 7614948541518093209
+    second: CUPONES_110
+  - first:
+      213: -3388883497576740317
+    second: CUPONES_111
+  - first:
+      213: 6436571313462918959
+    second: CUPONES_112
+  - first:
+      213: -542802859965761139
+    second: CUPONES_113
+  - first:
+      213: -4378037573050447586
+    second: CUPONES_114
+  - first:
+      213: 4597922055070986755
+    second: CUPONES_115
+  - first:
+      213: -6251227902116661964
+    second: CUPONES_116
+  - first:
+      213: 8641280593346783553
+    second: CUPONES_117
+  - first:
+      213: 477828770426233794
+    second: CUPONES_118
+  - first:
+      213: -2589825584574757186
+    second: CUPONES_119
+  - first:
+      213: -8855132995179991112
+    second: CUPONES_120
+  - first:
+      213: -1691256948718158962
+    second: CUPONES_121
+  - first:
+      213: 4601622934195466333
+    second: CUPONES_122
+  - first:
+      213: 4622576724865287296
+    second: CUPONES_123
+  - first:
+      213: 2296093117527344681
+    second: CUPONES_124
+  - first:
+      213: -3079272123241216314
+    second: CUPONES_125
+  - first:
+      213: 2274472008368565706
+    second: CUPONES_126
+  - first:
+      213: -180744442087390806
+    second: CUPONES_127
+  - first:
+      213: -5135887832519613352
+    second: CUPONES_128
+  - first:
+      213: -1756158671615704760
+    second: CUPONES_129
+  - first:
+      213: -1241506829518276805
+    second: CUPONES_130
+  - first:
+      213: -856824587922726931
+    second: CUPONES_131
+  - first:
+      213: -2040619746477258276
+    second: CUPONES_132
+  - first:
+      213: 8612673186378017454
+    second: CUPONES_133
+  - first:
+      213: -6980073956982371382
+    second: CUPONES_134
+  - first:
+      213: -69875523252889967
+    second: CUPONES_135
+  - first:
+      213: 6134974914897645117
+    second: CUPONES_136
+  - first:
+      213: 7345729548355434663
+    second: CUPONES_137
+  - first:
+      213: -5167950924895856050
+    second: CUPONES_138
+  - first:
+      213: 3195194803881659476
+    second: CUPONES_139
+  - first:
+      213: -7350321430725473325
+    second: CUPONES_140
+  - first:
+      213: 3251729469380652945
+    second: CUPONES_141
+  - first:
+      213: 1807868728447266966
+    second: CUPONES_142
+  - first:
+      213: -3811135762484854113
+    second: CUPONES_143
+  - first:
+      213: 7278181182506588029
+    second: CUPONES_144
+  - first:
+      213: -8162093277652738383
+    second: CUPONES_145
+  - first:
+      213: 4127619310970992960
+    second: CUPONES_146
+  - first:
+      213: 7618117747808182784
+    second: CUPONES_147
+  - first:
+      213: -4070552023841913994
+    second: CUPONES_148
+  - first:
+      213: -1124613768102029654
+    second: CUPONES_149
+  - first:
+      213: 8213079734219121939
+    second: CUPONES_150
+  - first:
+      213: 7266309605530564153
+    second: CUPONES_151
+  - first:
+      213: 8600160786194643929
+    second: CUPONES_152
+  - first:
+      213: -5341268441847504772
+    second: CUPONES_153
+  - first:
+      213: 5503374932314443453
+    second: CUPONES_154
+  - first:
+      213: 5307246929015797024
+    second: CUPONES_155
+  - first:
+      213: 8401833260366505414
+    second: CUPONES_156
+  - first:
+      213: -472749774119991254
+    second: CUPONES_157
+  - first:
+      213: 8196940525139707435
+    second: CUPONES_158
+  - first:
+      213: 2449261704907402778
+    second: CUPONES_159
+  - first:
+      213: 8066987284329204102
+    second: CUPONES_160
+  - first:
+      213: 2535959065529608511
+    second: CUPONES_161
+  - first:
+      213: 6033942087478617899
+    second: CUPONES_162
+  - first:
+      213: 2816850248989624838
+    second: CUPONES_163
+  - first:
+      213: -7223490561370129298
+    second: CUPONES_164
+  - first:
+      213: 5372377306439783960
+    second: CUPONES_165
+  - first:
+      213: -5421147367465054352
+    second: CUPONES_166
+  - first:
+      213: -180705790649958983
+    second: CUPONES_167
+  - first:
+      213: 2590353026722688875
+    second: CUPONES_168
+  - first:
+      213: -7385511799972364588
+    second: CUPONES_169
+  - first:
+      213: 362539448436589694
+    second: CUPONES_170
+  - first:
+      213: -1600504391243141002
+    second: CUPONES_171
+  - first:
+      213: 4850859532193936432
+    second: CUPONES_172
+  - first:
+      213: 546436228733216944
+    second: CUPONES_173
+  - first:
+      213: -637195454597849307
+    second: CUPONES_174
+  - first:
+      213: 4218936819296789284
+    second: CUPONES_175
+  - first:
+      213: -5504765792076025786
+    second: CUPONES_176
+  - first:
+      213: 610576749546173850
+    second: CUPONES_177
+  - first:
+      213: -5884714623102477204
+    second: CUPONES_178
+  - first:
+      213: 8293365519754786709
+    second: CUPONES_179
+  - first:
+      213: -2902720713099501981
+    second: CUPONES_180
+  - first:
+      213: -1919761432536221618
+    second: CUPONES_181
+  - first:
+      213: -850184165587430368
+    second: CUPONES_182
+  - first:
+      213: 8123110785925975983
+    second: CUPONES_183
+  - first:
+      213: 150542870795520688
+    second: CUPONES_184
+  - first:
+      213: 7950614885257257798
+    second: CUPONES_185
+  - first:
+      213: -3290007601671010135
+    second: CUPONES_186
+  - first:
+      213: 4346663364475174180
+    second: CUPONES_187
+  - first:
+      213: -8671169431080289651
+    second: CUPONES_188
+  - first:
+      213: -1865068847758831983
+    second: CUPONES_189
+  - first:
+      213: 888190486363883822
+    second: CUPONES_190
+  - first:
+      213: -9086829205195994452
+    second: CUPONES_191
+  - first:
+      213: 8754058029925523227
+    second: CUPONES_192
+  - first:
+      213: 5804491484769981284
+    second: CUPONES_193
+  - first:
+      213: -9080834859507688450
+    second: CUPONES_194
+  - first:
+      213: -168877121089740063
+    second: CUPONES_195
+  - first:
+      213: -7997928576502983766
+    second: CUPONES_196
+  - first:
+      213: -9199835473987568521
+    second: CUPONES_197
+  - first:
+      213: -6505970508491660164
+    second: CUPONES_198
+  - first:
+      213: 4874866247783312113
+    second: CUPONES_199
+  - first:
+      213: 7966245695598847556
+    second: CUPONES_200
+  - first:
+      213: -3738271098760103988
+    second: CUPONES_201
+  - first:
+      213: -2999254549127689527
+    second: CUPONES_202
+  - first:
+      213: 6373687132722288464
+    second: CUPONES_203
+  - first:
+      213: 8638007002255556818
+    second: CUPONES_204
+  - first:
+      213: 5661978233448162427
+    second: CUPONES_205
+  - first:
+      213: -7156561539122711709
+    second: CUPONES_206
+  - first:
+      213: 8746264818938686294
+    second: CUPONES_207
+  - first:
+      213: -4840436919204702395
+    second: CUPONES_208
+  - first:
+      213: 1905660746950984894
+    second: CUPONES_209
+  - first:
+      213: -5745270148316301161
+    second: CUPONES_210
+  - first:
+      213: -7187312951453506287
+    second: CUPONES_211
+  - first:
+      213: -2799535685834102264
+    second: CUPONES_212
+  - first:
+      213: -4723377063601145449
+    second: CUPONES_213
+  - first:
+      213: -5089440180943485401
+    second: CUPONES_214
+  - first:
+      213: 508875370610895384
+    second: CUPONES_215
+  - first:
+      213: -4683193269589592969
+    second: CUPONES_216
+  - first:
+      213: -8191653044638874746
+    second: CUPONES_217
+  - first:
+      213: 3517228933805372546
+    second: CUPONES_218
+  - first:
+      213: 2992150290420561515
+    second: CUPONES_219
+  - first:
+      213: 5439928193939294033
+    second: CUPONES_220
+  - first:
+      213: -3012282193258274448
+    second: CUPONES_221
+  - first:
+      213: 7716258654068494775
+    second: CUPONES_222
+  - first:
+      213: -6459549604670769114
+    second: CUPONES_223
+  - first:
+      213: -4391092441296931157
+    second: CUPONES_224
+  - first:
+      213: 6479120426373436003
+    second: CUPONES_225
+  - first:
+      213: 7857648834099086599
+    second: CUPONES_226
+  - first:
+      213: 4844617010011440348
+    second: CUPONES_227
+  - first:
+      213: -8270414268536305622
+    second: CUPONES_228
+  - first:
+      213: -8658687835439986799
+    second: CUPONES_229
+  - first:
+      213: -1127918707896769553
+    second: CUPONES_230
+  - first:
+      213: 555685451294273222
+    second: CUPONES_231
+  - first:
+      213: 8005988608212691972
+    second: CUPONES_232
+  - first:
+      213: -4066192907470914075
+    second: CUPONES_233
+  - first:
+      213: -6279000109100724377
+    second: CUPONES_234
+  - first:
+      213: 2048721314372781364
+    second: CUPONES_235
+  - first:
+      213: -6163240096169886500
+    second: CUPONES_236
+  - first:
+      213: -6782070465598790921
+    second: CUPONES_237
+  - first:
+      213: 5812145728518735480
+    second: CUPONES_238
+  - first:
+      213: -6296947111787606611
+    second: CUPONES_239
+  - first:
+      213: 2914974534126281572
+    second: CUPONES_240
+  - first:
+      213: -453197284142035494
+    second: CUPONES_241
+  - first:
+      213: 2471859555392133256
+    second: CUPONES_242
+  - first:
+      213: -6138289676347406670
+    second: CUPONES_243
+  - first:
+      213: 1861651139143892206
+    second: CUPONES_244
+  - first:
+      213: 7149814402878631996
+    second: CUPONES_245
+  - first:
+      213: -2200092880765743486
+    second: CUPONES_246
+  - first:
+      213: 3640080823773682609
+    second: CUPONES_247
+  - first:
+      213: -5492045208215848569
+    second: CUPONES_248
+  - first:
+      213: 7050501932137753608
+    second: CUPONES_249
+  - first:
+      213: -2700983458805906577
+    second: CUPONES_250
+  - first:
+      213: -6527539416117630840
+    second: CUPONES_251
+  - first:
+      213: 2498236783438826267
+    second: CUPONES_252
+  - first:
+      213: 6782189084265485188
+    second: CUPONES_253
+  - first:
+      213: 4288353222838184266
+    second: CUPONES_254
+  - first:
+      213: 4809508795121028259
+    second: CUPONES_255
+  - first:
+      213: 8225264878730140410
+    second: CUPONES_256
+  - first:
+      213: -2783462352810471881
+    second: CUPONES_257
+  - first:
+      213: 2956860283157680809
+    second: CUPONES_258
+  - first:
+      213: 4070696584378382481
+    second: CUPONES_259
+  - first:
+      213: 3819270666140958137
+    second: CUPONES_260
+  - first:
+      213: -4261768892124550319
+    second: CUPONES_261
+  - first:
+      213: -2762115290427267625
+    second: CUPONES_262
+  - first:
+      213: -1394005102653252717
+    second: CUPONES_263
+  - first:
+      213: 6384617777711303989
+    second: CUPONES_264
+  - first:
+      213: 211168995836473205
+    second: CUPONES_265
+  - first:
+      213: 1746173080041395584
+    second: CUPONES_266
+  - first:
+      213: 4850482160611666359
+    second: CUPONES_267
+  - first:
+      213: 4935214350010566284
+    second: CUPONES_268
+  - first:
+      213: -1914001650599554109
+    second: CUPONES_269
+  - first:
+      213: 844719564384904324
+    second: CUPONES_270
+  - first:
+      213: 5993778023893028030
+    second: CUPONES_271
+  - first:
+      213: 6792231603077993548
+    second: CUPONES_272
+  - first:
+      213: 3798437959111948877
+    second: CUPONES_273
+  - first:
+      213: 2792771561180207058
+    second: CUPONES_274
+  - first:
+      213: -4085424525593676904
+    second: CUPONES_275
+  - first:
+      213: 5144845564376137257
+    second: CUPONES_276
+  - first:
+      213: -4897020983432072744
+    second: CUPONES_277
+  - first:
+      213: 7071204847408696336
+    second: CUPONES_278
+  - first:
+      213: -4713765098062181483
+    second: CUPONES_279
+  - first:
+      213: -8281749065222437488
+    second: CUPONES_280
+  - first:
+      213: 7657846259991500479
+    second: CUPONES_281
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CUPONES_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c15dc89bfbbf30800000000000000
+      internalID: 4592540878732641106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 680
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91512fba73231790800000000000000
+      internalID: -7560660339325316710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 680
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c928b041ea6e75780800000000000000
+      internalID: -8694226920280456548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 680
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dedb284b3e24a50800000000000000
+      internalID: 6504011176303521163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 680
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd687b94b1ebdba0800000000000000
+      internalID: -6063004307505517113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 680
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a8e98dd1a66a90800000000000000
+      internalID: -7320986171370592585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_6
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 554
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd12c6fc92e3fb0800000000000000
+      internalID: -4666246193060126909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_7
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 657
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8acfbf83e1295d0800000000000000
+      internalID: -3057347966936504071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_8
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 658
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd53dce373c5ca660800000000000000
+      internalID: 7398389680209475036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_9
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 657
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac039152c52d918d0800000000000000
+      internalID: -2875035593898118966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_10
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 658
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7128ac537348140800000000000000
+      internalID: 4720959013561440175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_11
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 656
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9f14f9d4579770800000000000000
+      internalID: 8617449707077083060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_12
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 658
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0237c64efc22ac0800000000000000
+      internalID: -3881311348860968720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_13
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 657
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e560224e6906d9ff0800000000000000
+      internalID: -27759821505558946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_14
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 657
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b860297090a43b0800000000000000
+      internalID: -5527595664524538978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_15
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 657
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbee2679b5b46d020800000000000000
+      internalID: 2366161510983724731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_16
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 656
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d4fd128dd8e320800000000000000
+      internalID: 2587561536842421637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_17
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 657
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf28e12aa7206e60800000000000000
+      internalID: 7953400553603084227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_18
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 658
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11144549bffd9bdc0800000000000000
+      internalID: -3622618153624518383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_19
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 569
+        width: 182
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9e9c70b02f87240800000000000000
+      internalID: 4789844332897757644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_20
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 688
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5646edfb41b765ce0800000000000000
+      internalID: -1416809703712856987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_21
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 690
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d091f1d1c8f8c0dc0800000000000000
+      internalID: -3671401764267026163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_22
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 689
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b18ab13425d4020800000000000000
+      internalID: 2327607030600702872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_23
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 690
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ec6d7df42adaa10800000000000000
+      internalID: 1922371079764364815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_24
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 689
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60647fe90bad2820800000000000000
+      internalID: 2895158194629533805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_25
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 689
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f40f53eba353c80800000000000000
+      internalID: -8343698146010837092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_26
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 689
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34a99fd16fd5b8f0800000000000000
+      internalID: -525268170062584771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_27
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 690
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b54435705e372d50800000000000000
+      internalID: 6712402284903679414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_28
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 689
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7d818bf3399fc0800000000000000
+      internalID: -3487699281118396536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 587
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b5850e4e676250800000000000000
+      internalID: 5937835915090442644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 586
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6051479731787dc0800000000000000
+      internalID: -3641035815154266002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 586
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52953fba1aceb5280800000000000000
+      internalID: -9053382446779508443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 587
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8eca72fb9390d30800000000000000
+      internalID: 4398110004271180016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 587
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c77d0d5b5bfb010800000000000000
+      internalID: 1206883017656073300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 587
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170e7e886f17ed080800000000000000
+      internalID: -9160759288352219023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 587
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5778a845f656df60800000000000000
+      internalID: 8058724194712057691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 587
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d8bf60cf306db80800000000000000
+      internalID: -8370498476437697128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 587
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f8bc8953c9c7d0800000000000000
+      internalID: -2897570095855766487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_38
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 585
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0021441c6b4dc50800000000000000
+      internalID: 6689172287739003131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 588
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb6d493544e476e0800000000000000
+      internalID: -1840595361722438694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_40
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 586
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38c85de170d8e80800000000000000
+      internalID: -8174869919594413095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_41
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 586
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ecf39909f8cd70800000000000000
+      internalID: 9063768069615968618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_42
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 587
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d2346ad80c5f30800000000000000
+      internalID: 4565533856323787103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_43
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 587
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24827650118f220800000000000000
+      internalID: 2519782706416992991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_44
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 587
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d4b94e813b7010800000000000000
+      internalID: 1187597413933963189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_45
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 587
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb65b1b1d64127f0800000000000000
+      internalID: -639151805666333753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_46
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 596
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0d50f0fce578e20800000000000000
+      internalID: 3352752691003904201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_47
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 597
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f81afae847d6730800000000000000
+      internalID: 3993976600728276870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_48
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 596
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34478a7ad581a5790800000000000000
+      internalID: -7540687835554614205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_49
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 598
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175c14670bf100620800000000000000
+      internalID: 2738223416199988593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_50
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 598
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b4e67c409120f0800000000000000
+      internalID: -1143474172288781057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_51
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 600
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020dce9b9301034a0800000000000000
+      internalID: -6615770012488773600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_52
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 600
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd06ad6b8a25d70800000000000000
+      internalID: 9030465706132560981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_53
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 600
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754a00dee27c11830800000000000000
+      internalID: 4040229345086710871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_54
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 600
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb478edb1e70e30800000000000000
+      internalID: 4469789360953539701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_55
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 600
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe68a5d8779dea0800000000000000
+      internalID: -5847511192170991688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_56
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 601
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5c32199fc0a900800000000000000
+      internalID: 693782598957948418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_57
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 600
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a642b2bc9c6d60800000000000000
+      internalID: 7884849338927980667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_58
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 600
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ba8083c3b96930800000000000000
+      internalID: 4137035384973080492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_59
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 613
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97adda6eecd7a6b0800000000000000
+      internalID: -5285012721142749284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_60
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 613
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f41c508ebc37c90800000000000000
+      internalID: -7173165584081662064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_61
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 614
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52bbe8a74d090b40800000000000000
+      internalID: 5406867429062849117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_62
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 613
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ef77259c2926d70800000000000000
+      internalID: 9034945195828313724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_63
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 613
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaad7310d4ab9c10800000000000000
+      internalID: 2061422468039289569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_64
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 614
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d990e2ffc6dcc3160800000000000000
+      internalID: 7006700988303018397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_65
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 614
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c560af9fc4b2c4f0800000000000000
+      internalID: -809886179143948862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_66
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 613
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59af180bf000b8de0800000000000000
+      internalID: -1329969197572031851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_67
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 540
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9a43048b8f23f90800000000000000
+      internalID: -6975239402608612893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_68
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 541
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ea276c685ae5ec0800000000000000
+      internalID: -3576239055811989982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_69
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 541
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb781bd9b96a6bd0800000000000000
+      internalID: -2636178384906322964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_70
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 540
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61670deb1747c370800000000000000
+      internalID: 8342715019993506156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_71
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 540
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e25b717e17c860800000000000000
+      internalID: 7550036773059093022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_72
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 540
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5af992171fbf130800000000000000
+      internalID: 3601737795344770555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_73
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 541
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1890c5c69c0121a40800000000000000
+      internalID: 5337346965679901057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_74
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 540
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8485fb7a5c2720800000000000000
+      internalID: 2822730554901040738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_75
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 540
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a872504e1691145b0800000000000000
+      internalID: -5385995771130337398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_76
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 540
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa77744658a60090800000000000000
+      internalID: -8068576593918330200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_77
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 541
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c9db67eab0850a0800000000000000
+      internalID: -6892746385746191334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_78
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 540
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0fd5a3f97c91b0800000000000000
+      internalID: -5648505745262572535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_79
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 555
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c0ac04b7cfaa920800000000000000
+      internalID: 3002489707894017117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_80
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 556
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e249cfd5076ea0ba0800000000000000
+      internalID: -6121827373169208274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_81
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 556
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737bddccbb9013c0800000000000000
+      internalID: -4390838401476365456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_82
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 556
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c7b49ce8961c50800000000000000
+      internalID: 6635659242851779022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_83
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 555
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7393f85e353990800000000000000
+      internalID: -7406945460376339130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_84
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 554
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d88ffb02e44b890800000000000000
+      internalID: -7443238381569929965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_85
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 556
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3adfae1e7d45f0800000000000000
+      internalID: -770821290946052904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_86
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 551
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1f2001c11cf310800000000000000
+      internalID: 1440045501481164761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_87
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 589
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb209e777fb82b9a0800000000000000
+      internalID: -6218754240460291393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_88
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 556
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9076c9b26acff7d40800000000000000
+      internalID: 5584459853589145353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_89
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 554
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b981d508aff4440800000000000000
+      internalID: 4922428346963893022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_90
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 556
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b03cf9e9511fbd80800000000000000
+      internalID: -8232842515934596940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_91
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 556
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140b0f0a5eaa37f0800000000000000
+      internalID: -632001095869463525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_92
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 556
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c665c0ef58aa2f40800000000000000
+      internalID: 5704557007764547273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_93
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 556
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625139f41fc335f0800000000000000
+      internalID: -778050621617909140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_94
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 570
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9006e5c0d1d88dd0800000000000000
+      internalID: -2483504499891240803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_95
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 555
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614557c2b4ded8610800000000000000
+      internalID: 1625215947674833942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_96
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 362
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f7f67a3b006bb50800000000000000
+      internalID: 6608470274821029665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_97
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 467
+        width: 376
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6686fbc507b0570800000000000000
+      internalID: 8433958270831978151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_98
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 353
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9d3ef74d27b8a60800000000000000
+      internalID: 7677356246787414452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_99
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 481
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b18e541ab70e370800000000000000
+      internalID: 8349809641737689893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_100
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 473
+        width: 124
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3022a3cf4d728640800000000000000
+      internalID: 5080761111165411386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_101
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 353
+        width: 229
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3bf5887ff026e0800000000000000
+      internalID: -1864209352622392608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_102
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 381
+        width: 123
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c358292247d3f20800000000000000
+      internalID: 3404004585197878401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_103
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 483
+        width: 372
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1cab41a6fb70fb0800000000000000
+      internalID: -4681562825293118984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_104
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 445
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbdba74bb1509370800000000000000
+      internalID: 8327245575811226565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_105
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 462
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4ec4f0b93036fa0800000000000000
+      internalID: -5808795129866296116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_106
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 390
+        width: 19
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb95a4a7d7c8cd50800000000000000
+      internalID: 6757870969863642037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_107
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 410
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf67bbad7424dbf0800000000000000
+      internalID: -300575152956543027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_108
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 443
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c786abf0b9445f2f0800000000000000
+      internalID: -939769514462386052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 264
+        width: 11
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b2325a555f6a020800000000000000
+      internalID: 2352837603539233573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_110
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 403
+        width: 106
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b90105a5bbda960800000000000000
+      internalID: 7614948541518093209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 202
+        width: 20
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a41cdf96448f0d0800000000000000
+      internalID: -3388883497576740317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_112
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 371
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f3d66d18b435950800000000000000
+      internalID: 6436571313462918959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_113
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 134
+        width: 26
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89bcacbca39778f0800000000000000
+      internalID: -542802859965761139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_114
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 392
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c30de5061e33c0800000000000000
+      internalID: -4378037573050447586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_115
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 426
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b07d8fb91fcf30800000000000000
+      internalID: 4597922055070986755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_116
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 328
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435735ce75d2f39a0800000000000000
+      internalID: -6251227902116661964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_117
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 328
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14969ea8aeefbe770800000000000000
+      internalID: 8641280593346783553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_118
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 378
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a7bc2cb691a600800000000000000
+      internalID: 477828770426233794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_119
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 279
+        width: 11
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb604313a571f0cd0800000000000000
+      internalID: -2589825584574757186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_120
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 328
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa477157f3c1580800000000000000
+      internalID: -8855132995179991112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_121
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 328
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b3ebb04c27788e0800000000000000
+      internalID: -1691256948718158962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_122
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 286
+        width: 11
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50f20f9daf3cdf30800000000000000
+      internalID: 4601622934195466333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_123
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 421
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08485903a01b62040800000000000000
+      internalID: 4622576724865287296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_124
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 225
+        width: 19
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926cf61768c5ddf10800000000000000
+      internalID: 2296093117527344681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_125
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 159
+        width: 26
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c17f815a3445d0800000000000000
+      internalID: -3079272123241216314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_126
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 204
+        width: 122
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda06ead3c809f10800000000000000
+      internalID: 2274472008368565706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_127
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 328
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1414633eddd7df0800000000000000
+      internalID: -180744442087390806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_128
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 180
+        width: 123
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854ea683a39a9b8b0800000000000000
+      internalID: -5135887832519613352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_129
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 241
+        width: 11
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841cf112efed0a7e0800000000000000
+      internalID: -1756158671615704760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_130
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 378
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b377758cd1845cee0800000000000000
+      internalID: -1241506829518276805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_131
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 407
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def9b02b392fb14f0800000000000000
+      internalID: -856824587922726931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_132
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 378
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd94399f6234ea3e0800000000000000
+      internalID: -2040619746477258276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_133
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 377
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae79091ac568770800000000000000
+      internalID: 8612673186378017454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_134
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 379
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb4c18d7bbc12f90800000000000000
+      internalID: -6980073956982371382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_135
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 378
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965402f490c70ff0800000000000000
+      internalID: -69875523252889967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_136
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 379
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e086c3e2fc32550800000000000000
+      internalID: 6134974914897645117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_137
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 378
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f0d9da1641f560800000000000000
+      internalID: 7345729548355434663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_138
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 378
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5ee8c300c748b0800000000000000
+      internalID: -5167950924895856050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_139
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 12
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4a89cebc975c20800000000000000
+      internalID: 3195194803881659476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_140
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 359
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbcaa83a996ef990800000000000000
+      internalID: -7350321430725473325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 389
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6a1859b6702d20800000000000000
+      internalID: 3251729469380652945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_142
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 359
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f2afa707d61910800000000000000
+      internalID: 1807868728447266966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_143
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 358
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f928d4e57302c1bc0800000000000000
+      internalID: -3811135762484854113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_144
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 359
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77dc3a593b410560800000000000000
+      internalID: 7278181182506588029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_145
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 359
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be97e9986b6abe80800000000000000
+      internalID: -8162093277652738383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_146
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 360
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049f77ee4ef384930800000000000000
+      internalID: 4127619310970992960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_147
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 359
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002a437aabdf8b960800000000000000
+      internalID: 7618117747808182784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_148
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 359
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c723408e7287c0800000000000000
+      internalID: -4070552023841913994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_149
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 386
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6d3c28cb19460f0800000000000000
+      internalID: -1124613768102029654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_150
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 356
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152716e088baf170800000000000000
+      internalID: 8213079734219121939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_151
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 355
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93678a1761e17d460800000000000000
+      internalID: 7266309605530564153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_152
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 357
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db30606ba8e95770800000000000000
+      internalID: 8600160786194643929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_153
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 356
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70eca1c6a000e5b0800000000000000
+      internalID: -5341268441847504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_154
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 357
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe4462c75aef5c40800000000000000
+      internalID: 5503374932314443453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_155
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 356
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025f44386f027a940800000000000000
+      internalID: 5307246929015797024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_156
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 356
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c52532e5de499470800000000000000
+      internalID: 8401833260366505414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_157
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 356
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a288eedc5947079f0800000000000000
+      internalID: -472749774119991254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_158
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 228
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c4f57af161c170800000000000000
+      internalID: 8196940525139707435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_159
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 336
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e29fa3b868df120800000000000000
+      internalID: 2449261704907402778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_160
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 56
+        width: 26
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890902c132b3ff60800000000000000
+      internalID: 8066987284329204102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_161
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 339
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e2d18559813320800000000000000
+      internalID: 2535959065529608511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_162
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 356
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27217ffb5edcb350800000000000000
+      internalID: 6033942087478617899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_163
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 326
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4f7c8066771720800000000000000
+      internalID: 2816850248989624838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_164
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 250
+        width: 124
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c752b2b9101cb90800000000000000
+      internalID: -7223490561370129298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_165
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 329
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81696b532b48e8a40800000000000000
+      internalID: 5372377306439783960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_166
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 328
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8337113734c4b0800000000000000
+      internalID: -5421147367465054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_167
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 329
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf3737a010e7df0800000000000000
+      internalID: -180705790649958983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_168
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 306
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fe9a08a58c2f320800000000000000
+      internalID: 2590353026722688875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_169
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 301
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def036e524618990800000000000000
+      internalID: -7385511799972364588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_170
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 309
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74012125bff70500800000000000000
+      internalID: 362539448436589694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_171
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 308
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ff7a6cbdd9c9e0800000000000000
+      internalID: -1600504391243141002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_172
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 309
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034bcb72b07b15340800000000000000
+      internalID: 4850859532193936432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_173
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 312
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b82c0adad4559700800000000000000
+      internalID: 546436228733216944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_174
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 281
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f933c2c1a3827f0800000000000000
+      internalID: -637195454597849307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_175
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 314
+        width: 244
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423600c2facac8a30800000000000000
+      internalID: 4218936819296789284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_176
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 305
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64036977da42b93b0800000000000000
+      internalID: -5504765792076025786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_177
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 304
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ffc89154397800800000000000000
+      internalID: 610576749546173850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_178
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 305
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c1e659a3b455ea0800000000000000
+      internalID: -5884714623102477204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_179
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 322
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597f4750004f71370800000000000000
+      internalID: 8293365519754786709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_180
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 280
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e198504e677b7d0800000000000000
+      internalID: -2902720713099501981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_181
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 281
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48fe200623ab55e0800000000000000
+      internalID: -1919761432536221618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_182
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 279
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024df70810a8334f0800000000000000
+      internalID: -850184165587430368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_183
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 279
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0342c8361bb070800000000000000
+      internalID: 8123110785925975983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_184
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 259
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba0c3181f5d61200800000000000000
+      internalID: 150542870795520688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_185
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 259
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64321bd2d12465e60800000000000000
+      internalID: 7950614885257257798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_186
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 257
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8801a748b8752d0800000000000000
+      internalID: -3290007601671010135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_187
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 260
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d3fb5ec43725c30800000000000000
+      internalID: 4346663364475174180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_188
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 257
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8abb312851d9a780800000000000000
+      internalID: -8671169431080289651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_189
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 259
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e00b7b3c1fd16e0800000000000000
+      internalID: -1865068847758831983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_190
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 85
+        width: 124
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c990aa8c735c00800000000000000
+      internalID: 888190486363883822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_191
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 71
+        width: 20
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac5a16bf815e180800000000000000
+      internalID: -9086829205195994452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_192
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 299
+        width: 108
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fddd0b569ac7970800000000000000
+      internalID: 8754058029925523227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_193
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 221
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4639e7b7042bd8050800000000000000
+      internalID: 5804491484769981284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_194
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 255
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5f0fbec46af180800000000000000
+      internalID: -9080834859507688450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_195
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 286
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e261c2372708adf0800000000000000
+      internalID: -168877121089740063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_196
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 224
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa31892a556a10190800000000000000
+      internalID: -7997928576502983766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_197
+      rect:
+        serializedVersion: 2
+        x: 4215
+        y: 282
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cfee4116e935080800000000000000
+      internalID: -9199835473987568521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_198
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 281
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ef2aea4626b5a0800000000000000
+      internalID: -6505970508491660164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_199
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 264
+        width: 132
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6aa2360107a340800000000000000
+      internalID: 4874866247783312113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_200
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 241
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44667afc04acd8e60800000000000000
+      internalID: 7966245695598847556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_201
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc77b4ced3efe1cc0800000000000000
+      internalID: -3738271098760103988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_202
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 242
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0548d0e18066d0800000000000000
+      internalID: -2999254549127689527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_203
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 134
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057d36f8da2e37850800000000000000
+      internalID: 6373687132722288464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_204
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 108
+        width: 11
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d087c83a9d50e770800000000000000
+      internalID: 8638007002255556818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_205
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 255
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74eba27433639e40800000000000000
+      internalID: 5661978233448162427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_206
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 253
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633e5f7239ceac90800000000000000
+      internalID: -7156561539122711709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_207
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 256
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b265c5389f06970800000000000000
+      internalID: 8746264818938686294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_208
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 253
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5471e19844053dcb0800000000000000
+      internalID: -4840436919204702395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_209
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 255
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb44b6c4a54427a10800000000000000
+      internalID: 1905660746950984894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_210
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 263
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79873f66d33b440b0800000000000000
+      internalID: -5745270148316301161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_211
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 233
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115ac0f53f8814c90800000000000000
+      internalID: -7187312951453506287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_212
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 231
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a24d5502d0629d0800000000000000
+      internalID: -2799535685834102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_213
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 231
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79973df0691337eb0800000000000000
+      internalID: -4723377063601145449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_214
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 232
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7268345de1dae59b0800000000000000
+      internalID: -5089440180943485401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_215
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 230
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a25341473ef0700800000000000000
+      internalID: 508875370610895384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_216
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 210
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774bc9fa884f10fb0800000000000000
+      internalID: -4683193269589592969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_217
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 208
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6838d0705f6615e80800000000000000
+      internalID: -8191653044638874746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_218
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 208
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284f1398415bfc030800000000000000
+      internalID: 3517228933805372546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_219
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 209
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66791706d0468920800000000000000
+      internalID: 2992150290420561515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_220
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 207
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1574263ded18e7b40800000000000000
+      internalID: 5439928193939294033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_221
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 62
+        width: 12
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0712b931e493236d0800000000000000
+      internalID: -3012282193258274448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_222
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 203
+        width: 133
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b159c60d58a51b60800000000000000
+      internalID: 7716258654068494775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_223
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 222
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287594dbd11b56a0800000000000000
+      internalID: -6459549604670769114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_224
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 205
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6f79c80b4bf03c0800000000000000
+      internalID: -4391092441296931157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_225
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 203
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36257fe23b57ae950800000000000000
+      internalID: 6479120426373436003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_226
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 203
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7050d36abf9fb0d60800000000000000
+      internalID: 7857648834099086599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_227
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 204
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd40c82b0898b3340800000000000000
+      internalID: 4844617010011440348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_228
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 202
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2842929a06993d80800000000000000
+      internalID: -8270414268536305622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_229
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 215
+        width: 106
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978a931a4926d780800000000000000
+      internalID: -8658687835439986799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_230
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 191
+        width: 10
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ab4049e3d850f0800000000000000
+      internalID: -1127918707896769553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_231
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 82
+        width: 10
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce6f3b49f036b700800000000000000
+      internalID: 555685451294273222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_232
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 181
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c675cb83cfa1f60800000000000000
+      internalID: 8005988608212691972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_233
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 181
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edbbf1281bf197c0800000000000000
+      internalID: -4066192907470914075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_234
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 183
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f89681ba28cd8a0800000000000000
+      internalID: -6279000109100724377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_235
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 181
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43506fa4e258e6c10800000000000000
+      internalID: 2048721314372781364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_236
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 181
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc795a69c5c77aa0800000000000000
+      internalID: -6163240096169886500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_237
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 182
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e05038de31e1a0800000000000000
+      internalID: -6782070465598790921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_238
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 181
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876c92bfeb3e8a050800000000000000
+      internalID: 5812145728518735480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_239
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 107
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad4a78e6ffbc98a0800000000000000
+      internalID: -6296947111787606611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_240
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 167
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46328e305e1147820800000000000000
+      internalID: 2914974534126281572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_241
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 55
+        width: 10
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addca81a87be5b9f0800000000000000
+      internalID: -453197284142035494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_242
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 156
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8889dcd4b2fcd4220800000000000000
+      internalID: 2471859555392133256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_243
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 156
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b68dd8bf0a60daa0800000000000000
+      internalID: -6138289676347406670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_244
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 158
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec7f5cf8d9e5d910800000000000000
+      internalID: 1861651139143892206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_245
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 156
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307d8d615e393360800000000000000
+      internalID: 7149814402878631996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_246
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 156
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e87197e23b771e0800000000000000
+      internalID: -2200092880765743486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_247
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 157
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbddb6293a248230800000000000000
+      internalID: 3640080823773682609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_248
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 156
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78978e13bf558c3b0800000000000000
+      internalID: -5492045208215848569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_249
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 177
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ca641f62a68d160800000000000000
+      internalID: 7050501932137753608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_250
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 151
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f630ba9cadd248ad0800000000000000
+      internalID: -2700983458805906577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_251
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 153
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a2f44c758965a0800000000000000
+      internalID: -6527539416117630840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_252
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 151
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8fa94e158ba220800000000000000
+      internalID: 2498236783438826267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_253
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 151
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831d2fd90d2f1e50800000000000000
+      internalID: 6782189084265485188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_254
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 151
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49eba6198a438b30800000000000000
+      internalID: 4288353222838184266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_255
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 193
+        width: 240
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac4e4d64ceceb240800000000000000
+      internalID: 4809508795121028259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_256
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 195
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad430f3d2062270800000000000000
+      internalID: 8225264878730140410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_257
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 242
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e0f0fccb72f59d0800000000000000
+      internalID: -2783462352810471881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_258
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 171
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2131ce2c0e80920800000000000000
+      internalID: 2956860283157680809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_259
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 161
+        width: 133
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f44cd9f40e7830800000000000000
+      internalID: 4070696584378382481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_260
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 151
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb66c7f66c00530800000000000000
+      internalID: 3819270666140958137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_261
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 152
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b2b1eb5c72bd4c0800000000000000
+      internalID: -4261768892124550319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_262
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 39
+        width: 224
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5686517cefaa9d0800000000000000
+      internalID: -2762115290427267625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_263
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5541bebf77ace0800000000000000
+      internalID: -1394005102653252717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_264
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 39
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d402baa08ba9850800000000000000
+      internalID: 6384617777711303989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_265
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 227
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa86835193ee200800000000000000
+      internalID: 211168995836473205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_266
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 136
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08597382a27ab3810800000000000000
+      internalID: 1746173080041395584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_267
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 11
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a0ac73df505340800000000000000
+      internalID: 4850482160611666359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_268
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 119
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c864acead476d7440800000000000000
+      internalID: 4935214350010566284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_269
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 0
+        width: 126
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3908cb3a91075e0800000000000000
+      internalID: -1914001650599554109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_270
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 83
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4842cf1e7fb09bb00800000000000000
+      internalID: 844719564384904324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_271
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 56
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebccfa83b5d2e2350800000000000000
+      internalID: 5993778023893028030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_272
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 42
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4455adf7aad24e50800000000000000
+      internalID: 6792231603077993548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_273
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 50
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3a36e233c6b430800000000000000
+      internalID: 3798437959111948877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_274
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 45
+        width: 19
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d795fa20fae1c620800000000000000
+      internalID: 2792771561180207058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_275
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 56
+        width: 106
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f15b1a08ad47c0800000000000000
+      internalID: -4085424525593676904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_276
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 41
+        width: 122
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e32e048c9266740800000000000000
+      internalID: 5144845564376137257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_277
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 32
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1b5e07c594a0cb0800000000000000
+      internalID: -4897020983432072744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_278
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 34
+        width: 102
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cc0d70857f12260800000000000000
+      internalID: 7071204847408696336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_279
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 123
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b8e5f2e97559eb0800000000000000
+      internalID: -4713765098062181483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_280
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 5
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954e709a11511d80800000000000000
+      internalID: -8281749065222437488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CUPONES_281
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 0
+        width: 379
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6d857b992264a60800000000000000
+      internalID: 7657846259991500479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CUPONES_0: 4592540878732641106
+      CUPONES_1: -7560660339325316710
+      CUPONES_10: 4720959013561440175
+      CUPONES_100: 5080761111165411386
+      CUPONES_101: -1864209352622392608
+      CUPONES_102: 3404004585197878401
+      CUPONES_103: -4681562825293118984
+      CUPONES_104: 8327245575811226565
+      CUPONES_105: -5808795129866296116
+      CUPONES_106: 6757870969863642037
+      CUPONES_107: -300575152956543027
+      CUPONES_108: -939769514462386052
+      CUPONES_109: 2352837603539233573
+      CUPONES_11: 8617449707077083060
+      CUPONES_110: 7614948541518093209
+      CUPONES_111: -3388883497576740317
+      CUPONES_112: 6436571313462918959
+      CUPONES_113: -542802859965761139
+      CUPONES_114: -4378037573050447586
+      CUPONES_115: 4597922055070986755
+      CUPONES_116: -6251227902116661964
+      CUPONES_117: 8641280593346783553
+      CUPONES_118: 477828770426233794
+      CUPONES_119: -2589825584574757186
+      CUPONES_12: -3881311348860968720
+      CUPONES_120: -8855132995179991112
+      CUPONES_121: -1691256948718158962
+      CUPONES_122: 4601622934195466333
+      CUPONES_123: 4622576724865287296
+      CUPONES_124: 2296093117527344681
+      CUPONES_125: -3079272123241216314
+      CUPONES_126: 2274472008368565706
+      CUPONES_127: -180744442087390806
+      CUPONES_128: -5135887832519613352
+      CUPONES_129: -1756158671615704760
+      CUPONES_13: -27759821505558946
+      CUPONES_130: -1241506829518276805
+      CUPONES_131: -856824587922726931
+      CUPONES_132: -2040619746477258276
+      CUPONES_133: 8612673186378017454
+      CUPONES_134: -6980073956982371382
+      CUPONES_135: -69875523252889967
+      CUPONES_136: 6134974914897645117
+      CUPONES_137: 7345729548355434663
+      CUPONES_138: -5167950924895856050
+      CUPONES_139: 3195194803881659476
+      CUPONES_14: -5527595664524538978
+      CUPONES_140: -7350321430725473325
+      CUPONES_141: 3251729469380652945
+      CUPONES_142: 1807868728447266966
+      CUPONES_143: -3811135762484854113
+      CUPONES_144: 7278181182506588029
+      CUPONES_145: -8162093277652738383
+      CUPONES_146: 4127619310970992960
+      CUPONES_147: 7618117747808182784
+      CUPONES_148: -4070552023841913994
+      CUPONES_149: -1124613768102029654
+      CUPONES_15: 2366161510983724731
+      CUPONES_150: 8213079734219121939
+      CUPONES_151: 7266309605530564153
+      CUPONES_152: 8600160786194643929
+      CUPONES_153: -5341268441847504772
+      CUPONES_154: 5503374932314443453
+      CUPONES_155: 5307246929015797024
+      CUPONES_156: 8401833260366505414
+      CUPONES_157: -472749774119991254
+      CUPONES_158: 8196940525139707435
+      CUPONES_159: 2449261704907402778
+      CUPONES_16: 2587561536842421637
+      CUPONES_160: 8066987284329204102
+      CUPONES_161: 2535959065529608511
+      CUPONES_162: 6033942087478617899
+      CUPONES_163: 2816850248989624838
+      CUPONES_164: -7223490561370129298
+      CUPONES_165: 5372377306439783960
+      CUPONES_166: -5421147367465054352
+      CUPONES_167: -180705790649958983
+      CUPONES_168: 2590353026722688875
+      CUPONES_169: -7385511799972364588
+      CUPONES_17: 7953400553603084227
+      CUPONES_170: 362539448436589694
+      CUPONES_171: -1600504391243141002
+      CUPONES_172: 4850859532193936432
+      CUPONES_173: 546436228733216944
+      CUPONES_174: -637195454597849307
+      CUPONES_175: 4218936819296789284
+      CUPONES_176: -5504765792076025786
+      CUPONES_177: 610576749546173850
+      CUPONES_178: -5884714623102477204
+      CUPONES_179: 8293365519754786709
+      CUPONES_18: -3622618153624518383
+      CUPONES_180: -2902720713099501981
+      CUPONES_181: -1919761432536221618
+      CUPONES_182: -850184165587430368
+      CUPONES_183: 8123110785925975983
+      CUPONES_184: 150542870795520688
+      CUPONES_185: 7950614885257257798
+      CUPONES_186: -3290007601671010135
+      CUPONES_187: 4346663364475174180
+      CUPONES_188: -8671169431080289651
+      CUPONES_189: -1865068847758831983
+      CUPONES_19: 4789844332897757644
+      CUPONES_190: 888190486363883822
+      CUPONES_191: -9086829205195994452
+      CUPONES_192: 8754058029925523227
+      CUPONES_193: 5804491484769981284
+      CUPONES_194: -9080834859507688450
+      CUPONES_195: -168877121089740063
+      CUPONES_196: -7997928576502983766
+      CUPONES_197: -9199835473987568521
+      CUPONES_198: -6505970508491660164
+      CUPONES_199: 4874866247783312113
+      CUPONES_2: -8694226920280456548
+      CUPONES_20: -1416809703712856987
+      CUPONES_200: 7966245695598847556
+      CUPONES_201: -3738271098760103988
+      CUPONES_202: -2999254549127689527
+      CUPONES_203: 6373687132722288464
+      CUPONES_204: 8638007002255556818
+      CUPONES_205: 5661978233448162427
+      CUPONES_206: -7156561539122711709
+      CUPONES_207: 8746264818938686294
+      CUPONES_208: -4840436919204702395
+      CUPONES_209: 1905660746950984894
+      CUPONES_21: -3671401764267026163
+      CUPONES_210: -5745270148316301161
+      CUPONES_211: -7187312951453506287
+      CUPONES_212: -2799535685834102264
+      CUPONES_213: -4723377063601145449
+      CUPONES_214: -5089440180943485401
+      CUPONES_215: 508875370610895384
+      CUPONES_216: -4683193269589592969
+      CUPONES_217: -8191653044638874746
+      CUPONES_218: 3517228933805372546
+      CUPONES_219: 2992150290420561515
+      CUPONES_22: 2327607030600702872
+      CUPONES_220: 5439928193939294033
+      CUPONES_221: -3012282193258274448
+      CUPONES_222: 7716258654068494775
+      CUPONES_223: -6459549604670769114
+      CUPONES_224: -4391092441296931157
+      CUPONES_225: 6479120426373436003
+      CUPONES_226: 7857648834099086599
+      CUPONES_227: 4844617010011440348
+      CUPONES_228: -8270414268536305622
+      CUPONES_229: -8658687835439986799
+      CUPONES_23: 1922371079764364815
+      CUPONES_230: -1127918707896769553
+      CUPONES_231: 555685451294273222
+      CUPONES_232: 8005988608212691972
+      CUPONES_233: -4066192907470914075
+      CUPONES_234: -6279000109100724377
+      CUPONES_235: 2048721314372781364
+      CUPONES_236: -6163240096169886500
+      CUPONES_237: -6782070465598790921
+      CUPONES_238: 5812145728518735480
+      CUPONES_239: -6296947111787606611
+      CUPONES_24: 2895158194629533805
+      CUPONES_240: 2914974534126281572
+      CUPONES_241: -453197284142035494
+      CUPONES_242: 2471859555392133256
+      CUPONES_243: -6138289676347406670
+      CUPONES_244: 1861651139143892206
+      CUPONES_245: 7149814402878631996
+      CUPONES_246: -2200092880765743486
+      CUPONES_247: 3640080823773682609
+      CUPONES_248: -5492045208215848569
+      CUPONES_249: 7050501932137753608
+      CUPONES_25: -8343698146010837092
+      CUPONES_250: -2700983458805906577
+      CUPONES_251: -6527539416117630840
+      CUPONES_252: 2498236783438826267
+      CUPONES_253: 6782189084265485188
+      CUPONES_254: 4288353222838184266
+      CUPONES_255: 4809508795121028259
+      CUPONES_256: 8225264878730140410
+      CUPONES_257: -2783462352810471881
+      CUPONES_258: 2956860283157680809
+      CUPONES_259: 4070696584378382481
+      CUPONES_26: -525268170062584771
+      CUPONES_260: 3819270666140958137
+      CUPONES_261: -4261768892124550319
+      CUPONES_262: -2762115290427267625
+      CUPONES_263: -1394005102653252717
+      CUPONES_264: 6384617777711303989
+      CUPONES_265: 211168995836473205
+      CUPONES_266: 1746173080041395584
+      CUPONES_267: 4850482160611666359
+      CUPONES_268: 4935214350010566284
+      CUPONES_269: -1914001650599554109
+      CUPONES_27: 6712402284903679414
+      CUPONES_270: 844719564384904324
+      CUPONES_271: 5993778023893028030
+      CUPONES_272: 6792231603077993548
+      CUPONES_273: 3798437959111948877
+      CUPONES_274: 2792771561180207058
+      CUPONES_275: -4085424525593676904
+      CUPONES_276: 5144845564376137257
+      CUPONES_277: -4897020983432072744
+      CUPONES_278: 7071204847408696336
+      CUPONES_279: -4713765098062181483
+      CUPONES_28: -3487699281118396536
+      CUPONES_280: -8281749065222437488
+      CUPONES_281: 7657846259991500479
+      CUPONES_29: 5937835915090442644
+      CUPONES_3: 6504011176303521163
+      CUPONES_30: -3641035815154266002
+      CUPONES_31: -9053382446779508443
+      CUPONES_32: 4398110004271180016
+      CUPONES_33: 1206883017656073300
+      CUPONES_34: -9160759288352219023
+      CUPONES_35: 8058724194712057691
+      CUPONES_36: -8370498476437697128
+      CUPONES_37: -2897570095855766487
+      CUPONES_38: 6689172287739003131
+      CUPONES_39: -1840595361722438694
+      CUPONES_4: -6063004307505517113
+      CUPONES_40: -8174869919594413095
+      CUPONES_41: 9063768069615968618
+      CUPONES_42: 4565533856323787103
+      CUPONES_43: 2519782706416992991
+      CUPONES_44: 1187597413933963189
+      CUPONES_45: -639151805666333753
+      CUPONES_46: 3352752691003904201
+      CUPONES_47: 3993976600728276870
+      CUPONES_48: -7540687835554614205
+      CUPONES_49: 2738223416199988593
+      CUPONES_5: -7320986171370592585
+      CUPONES_50: -1143474172288781057
+      CUPONES_51: -6615770012488773600
+      CUPONES_52: 9030465706132560981
+      CUPONES_53: 4040229345086710871
+      CUPONES_54: 4469789360953539701
+      CUPONES_55: -5847511192170991688
+      CUPONES_56: 693782598957948418
+      CUPONES_57: 7884849338927980667
+      CUPONES_58: 4137035384973080492
+      CUPONES_59: -5285012721142749284
+      CUPONES_6: -4666246193060126909
+      CUPONES_60: -7173165584081662064
+      CUPONES_61: 5406867429062849117
+      CUPONES_62: 9034945195828313724
+      CUPONES_63: 2061422468039289569
+      CUPONES_64: 7006700988303018397
+      CUPONES_65: -809886179143948862
+      CUPONES_66: -1329969197572031851
+      CUPONES_67: -6975239402608612893
+      CUPONES_68: -3576239055811989982
+      CUPONES_69: -2636178384906322964
+      CUPONES_7: -3057347966936504071
+      CUPONES_70: 8342715019993506156
+      CUPONES_71: 7550036773059093022
+      CUPONES_72: 3601737795344770555
+      CUPONES_73: 5337346965679901057
+      CUPONES_74: 2822730554901040738
+      CUPONES_75: -5385995771130337398
+      CUPONES_76: -8068576593918330200
+      CUPONES_77: -6892746385746191334
+      CUPONES_78: -5648505745262572535
+      CUPONES_79: 3002489707894017117
+      CUPONES_8: 7398389680209475036
+      CUPONES_80: -6121827373169208274
+      CUPONES_81: -4390838401476365456
+      CUPONES_82: 6635659242851779022
+      CUPONES_83: -7406945460376339130
+      CUPONES_84: -7443238381569929965
+      CUPONES_85: -770821290946052904
+      CUPONES_86: 1440045501481164761
+      CUPONES_87: -6218754240460291393
+      CUPONES_88: 5584459853589145353
+      CUPONES_89: 4922428346963893022
+      CUPONES_9: -2875035593898118966
+      CUPONES_90: -8232842515934596940
+      CUPONES_91: -632001095869463525
+      CUPONES_92: 5704557007764547273
+      CUPONES_93: -778050621617909140
+      CUPONES_94: -2483504499891240803
+      CUPONES_95: 1625215947674833942
+      CUPONES_96: 6608470274821029665
+      CUPONES_97: 8433958270831978151
+      CUPONES_98: 7677356246787414452
+      CUPONES_99: 8349809641737689893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
